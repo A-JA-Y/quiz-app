@@ -17,6 +17,11 @@ const questions = [
     question: "Who painted the Mona Lisa?",
     options: ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
     correctAnswer: "Leonardo da Vinci"
+  },
+{
+    question: "Who is the most badass character of GTA trilogy?",
+    options: ["Franklin", "Michael", "Tomy or Cj", "Trever"],
+    correctAnswer: "Franklin"
   }
 ]
 
