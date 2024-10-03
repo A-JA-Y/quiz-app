@@ -21,7 +21,12 @@ const questions = [
 {
     question: "Who is the most badass character of GTA trilogy?",
     options: ["Franklin", "Michael", "Tomy or Cj", "Trever"],
-    correctAnswer: "Franklin"
+    correctAnswer: "Trever"
+  },
+{
+    question: "Who wrote "Brown Rang"?",
+    options: ["Honey singh", "Badshah", "Ikka", "Raftar"],
+    correctAnswer: "Honey singh"
   }
 ]
 
