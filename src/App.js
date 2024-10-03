@@ -20,7 +20,7 @@ const questions = [
   },
 {
     question: "Who is the most badass character of GTA trilogy?",
-    options: ["Franklin", "Michael", "Tomy or Cj", "Trever"],
+    options: ["Franklin", "Michael", "Cj", "Trever"],
     correctAnswer: "Trever"
   },
 {
