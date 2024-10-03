@@ -25,7 +25,7 @@ const questions = [
   },
 {
     question: "Who wrote "Brown Rang"?",
-    options: ["Honey singh", "Badshah", "Ikka", "Raftar"],
+    options: ["Honey singh", "Badshah", "Ikka", "None of above"],
     correctAnswer: "Honey singh"
   }
 ]
